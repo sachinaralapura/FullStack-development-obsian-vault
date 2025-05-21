@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "0ee5ed126933742e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a57025e082016e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914837be6275c3c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e03ea1fbb060bda8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a322bf193129799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8070ea1f6ebfc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "169d1f7610c754c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ca80a656f2b3889",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.50260543823242
+  },
+  "right": {
+    "id": "b4c8bf4c2033c6a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e97a71042bdaf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5eae6b2a939945f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "373f2ebf96b19252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Sources/Books.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Books"
+            }
+          },
+          {
+            "id": "a29a7d2e3a90bdc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Fleeting/Slip-Box.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Slip-Box"
+            }
+          },
+          {
+            "id": "26e193a2f8109ecf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-Sources/Books.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Books"
+            }
+          },
+          {
+            "id": "ca3d8d31a0e475ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b9e4560bef8d1eb4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 434.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "914837be6275c3c3",
+  "lastOpenFiles": [
+    "NodeJs/NodeJs.md",
+    "NodeJs/Event Loop.md",
+    "NodeJs/Event Loop in NodeJs.md",
+    "OVERVIEW.md",
+    "NodeJs/NodeJs Characteristics.md",
+    "NodeJs Characteristics.md",
+    "NodeJs/Streams in NodeJs.md",
+    "Javascript/Event Loop in Javascript.md",
+    "assests",
+    "NodeJs/Buffers in NodeJs.md",
+    "NodeJs",
+    "Javascript/Javascript.md",
+    "BackEnd",
+    "web/Web development.md",
+    "web/What is the difference between cookies, localStorage, and sessionStorage?.md",
+    "Javascript/Debouncing and Throttling.md",
+    "MongoDb/Single Field Index.md",
+    "MongoDb/Reference Data Model.md",
+    "MongoDb/Query Operators in Mongodb.md",
+    "MongoDb/MongoDb.md",
+    "MongoDb/Lookup.md",
+    "MongoDb/Indexes in MongoDb.md",
+    "MongoDb/Example.md",
+    "MongoDb/Embedded Model.md",
+    "MongoDb/Documents , Collection and Databases in MongoDb.md",
+    "MongoDb/Data modeling approaches.md",
+    "MongoDb/CRUD Operation in Mongdb.md",
+    "MongoDb/Covered Queries.md",
+    "MongoDb/Compound Indexes.md",
+    "assests/Pasted image 20250517213047.png",
+    "MongoDb",
+    "web",
+    "React",
+    "Excalidraw",
+    "Interview",
+    "Javascript",
+    "NotebookLM Mind Map(1).png",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "Permanent",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "09-Excalidraw/",
+    "09-Excalidraw/Scripts/",
+    "09-Excalidraw/Scripts/Downloaded/"
+  ],
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
+}
