@@ -1,7 +1,5 @@
-Here's a `README.md` for your Obsidian vault for full-stack interview preparation, tailored to your technical expertise and development environment:
 
 ---
-
 # Fullstack Interview Prep Vault
 
 This repository contains an Obsidian vault designed to help you prepare for full-stack developer interviews. It covers essential topics in backend development (Node.js, Golang), UI development (React.js), databases (MongoDB, PostgreSQL), and general computer science fundamentals like C++ and Python.
