@@ -11,10 +11,15 @@
             "id": "914837be6275c3c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -193,10 +198,11 @@
   },
   "active": "914837be6275c3c3",
   "lastOpenFiles": [
+    "OVERVIEW.md",
+    "README.md",
     "NodeJs/NodeJs.md",
     "NodeJs/Event Loop.md",
     "NodeJs/Event Loop in NodeJs.md",
-    "OVERVIEW.md",
     "NodeJs/NodeJs Characteristics.md",
     "NodeJs Characteristics.md",
     "NodeJs/Streams in NodeJs.md",
@@ -221,7 +227,6 @@
     "MongoDb/Data modeling approaches.md",
     "MongoDb/CRUD Operation in Mongdb.md",
     "MongoDb/Covered Queries.md",
-    "MongoDb/Compound Indexes.md",
     "assests/Pasted image 20250517213047.png",
     "MongoDb",
     "web",
