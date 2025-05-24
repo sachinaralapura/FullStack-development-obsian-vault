@@ -10,7 +10,7 @@ The event loop in JavaScript! It's a fundamental concept that allows JavaScript 
 
 4. **The Event Loop:** This is the heart of the asynchronous magic. It constantly monitors the call stack and the event queue. If the call stack is empty, it takes the first callback from the event queue and pushes it onto the call stack for execution.
 
-![[Pasted image 20250517213047.png]]
+![[eventloop.png]]
 
 There are two queue **Task Queue** and **Microtask Queue**. Javascript prioritizes **Microtask Queue**. 
 

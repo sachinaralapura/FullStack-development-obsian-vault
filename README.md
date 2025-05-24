@@ -43,8 +43,6 @@ Follow these simple steps to set up and start using the vault:
 
 Open your terminal (e.g., in your Ubuntu/Linux environment) and clone this repository to your local machine:
 
-Bash
-
 ```bash
 git clone https://github.com/sachinaralapura/FullStack-development-obsian-vault.git
 cd FullStack-development-obsian-vault

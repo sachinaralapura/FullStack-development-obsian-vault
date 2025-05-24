@@ -3,6 +3,7 @@ tags:
   - mongodb
 ---
 
+- [[mongosh basic]]
 - [[Key Features of mongoDb| Explain the key features of MongoDB]]
 - [[Documents , Collection and Databases in MongoDb | What are documents, collections, and databases in MongoDB?]]
 - [[BSON| What is BSON? Why is it used in MongoDB?]]

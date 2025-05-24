@@ -6,6 +6,9 @@
 
 - ## [[Web development]]
 
+- ## [[Redux]]
+
+
 # Backend
 
 - ## [[MongoDb]]
@@ -23,4 +26,7 @@
 	- [[Schemas]]
 	- [[Acid properties]]
 	- [[Web Socket]]
-	
+
+- ## [[DSA]]
+
+
